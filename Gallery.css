@@ -1,0 +1,7 @@
+.gallery-overall{
+    display: flex;
+}
+.gallery-overall .image{
+    position: absolute;
+    left: 20rem;
+}
